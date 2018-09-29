@@ -1,0 +1,40 @@
+3-cells CNN system
+Van der Pol system
+Arnold's cat map
+Baker's map
+Bogdanov map
+Brusselator
+Chua circuit
+Circle map
+Complex quadratic map
+Complex squaring map
+Duffing map
+Duffing equation
+Dyadic transformation
+Exponential map
+Finance system
+Gauss map
+Gingerbreadman map
+Hadley chaotic circulation
+Hénon map
+Hindmarsh-Rose neuronal model
+Horseshoe map
+Ikeda map
+Interval exchange map
+Kaplan-Yorke map
+Logistic map
+Lorenz system
+Lorenz system's Poincare return map
+Lorenz 96 model
+Lotka-Volterra system
+Nosé-Hoover system
+Rayleigh-Benard chaotic oscillator
+Rössler attractor
+Standard map, Kicked rotor
+Symplectic map
+Tangent map
+Thomas' cyclically symmetric attractor
+Tent map
+Tinkerbell map
+Van der Pol oscillator
+Zaslavskii map

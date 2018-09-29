@@ -1,0 +1,96 @@
+2D circular chaotic map
+2D Lorenz system
+2D Rational chaotic map
+ACT chaotic attractor
+Aizawa chaotic attractor
+Arneodo chaotic system
+Basin chaotic map
+Burke-Shaw chaotic attractor
+Chen chaotic attractor
+Chen-Celikovsky system
+Chen-Lee system
+Chossat-Golubitsky symmetry map
+Complex cubic map
+Clifford fractal map
+Degenerate Double Rotor map
+De Jong fractal map
+Delayed-Logistic system
+Double rotor map
+Feigenbaum strange nonchaotic map
+Folded-Towel hyperchaotic map
+Fractal-Dream system
+Generalized Baker map
+Genesio-Tesi chaotic attractor
+Grinch dragon fractal
+Gumowski/Mira map
+Half-inverted Rössler attractor
+Halvorsen chaotic attractor
+Hénon with 5th order polynomial
+Hitzl-Zele map
+Hopa-Jong fractal
+Hopalong orbit fractal
+Hyper Logistic map
+Hyperchaotic Chen system
+Hyper Newton-Leipnik system
+Hyper-Lorenz chaotic attractor
+Hyper-Lu chaotic system
+Hyper-Rössler chaotic attractor
+Hyperchaotic attractor
+Ikeda chaotic attractor
+Knot fractal map
+Knot-Holder chaotic oscillator
+Lambic map
+Li symmetrical toroidal chaos
+Linear map on unit square
+Lozi map
+Moore-Spiegel chaotic oscillator
+Scroll-Attractor
+Jerk Circuit
+Newton-Leipnik system
+Nordmark truncated map
+Novel chaotic system
+Pickover fractal map
+Pomeau-Manneville maps for intermittent chaos
+Polynom Type-A fractal map
+Polynom Type-B fractal map
+Polynom Type-C fractal map
+Pulsed rotor
+Quadrup-Two orbit fractal
+Quasiperiodicity map
+Mikhail Anatoly chaotic attractor
+Random Rotate map
+Rikitake chaotic attractor
+Rucklidge system
+Sakarya chaotic attractor
+Shaw-Pol chaotic oscillator
+Shimizu-Morioka system
+Shobu-Ose-Mori piecewise-linear map
+Sinai map
+Sprott B chaotic system
+Sprott C chaotic system
+Sprott-Linz A chaotic attractor
+Sprott-Linz B chaotic attractor
+Sprott-Linz C chaotic attractor
+Sprott-Linz D chaotic attractor
+Sprott-Linz E chaotic attractor
+Sprott-Linz F chaotic attractor
+Sprott-Linz G chaotic attractor
+Sprott-Linz H chaotic attractor
+Sprott-Linz I chaotic attractor
+Sprott-Linz K chaotic attractor
+Sprott-Linz L chaotic attractor
+Sprott-Linz M chaotic attractor
+Sprott-Linz N chaotic attractor
+Sprott-Linz O chaotic attractor
+Sprott-Linz P chaotic attractor
+Sprott-Linz Q chaotic attractor
+Sprott-Linz R chaotic attractor
+Sprott-Linz S chaotic attractor
+Strizhak-Kawczynski chaotic oscillator
+Symmetric Flow attractor
+Triangle map
+Ueda chaotic oscillator
+Willamowski-Rössler model
+WINDMI chaotic attractor
+Zaslavskii rotation map
+Zeraoulia-Sprott map
